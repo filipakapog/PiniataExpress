@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 850px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#header {
+    color : #FFFAF0;
+    padding-top:100px;
+    height: 200px;
+    background-color:#aaa;
+}
+
+#productList {
+	padding-top: 10px;
+	float: left;
+	background-color: #ccc;
+	height: 100%;
+	width: 850px;
+}
+
+#buttons {
+	padding-top: 160px;
+	float: left;
+	background-color: #eee;
+	height: 240px;
+	width: 400px;
+}
+
